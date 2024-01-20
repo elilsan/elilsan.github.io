@@ -14,9 +14,9 @@ I am passionate about GIS and am looking forward to applying my skills in a prof
 **Company name**
 Position Here
 Skills:
-    - Standing on feet continously for hours at a time
-    - Organization 
-    - Accuracy
+* Standing on feet continously for hours at a time
+* Organization 
+* Accuracy
 
 
 ## Education
@@ -27,13 +27,13 @@ Skills:
 * Bachelor of Arts in Geography	expected Jun 2024
 
 ## Leadership Activities
-- Was involved with a registered student organization on campus from (Month,year) to (Month, year)
+* Was involved with a registered student organization on campus from (Month,year) to (Month, year)
 
 ## Additional information 
 Skills: 
-- Proficient in technology: Word, Excel, QGIS, R Studio, Northscope
-- Knowledge of food and workplace safety standards
-- Bilingual
+* Proficient in technology: Word, Excel, QGIS, R Studio, Northscope
+* Knowledge of food and workplace safety standards
+* Bilingual
 Interests:
 •	Advocating for social injustice, writing, and language learning
 
