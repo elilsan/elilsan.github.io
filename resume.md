@@ -14,6 +14,7 @@ I am passionate about GIS and am looking forward to applying my skills in a prof
 **Company name**
 
 Position Here
+
 Skills:
 * Standing on feet continously for hours at a time
 * Organization 
