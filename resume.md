@@ -12,6 +12,7 @@ I am passionate about GIS and am looking forward to applying my skills in a prof
 
 ## Work Experience 
 **Company name**
+
 Position Here
 Skills:
 * Standing on feet continously for hours at a time
@@ -34,8 +35,9 @@ Skills:
 * Proficient in technology: Word, Excel, QGIS, R Studio, Northscope
 * Knowledge of food and workplace safety standards
 * Bilingual
+
 Interests:
-•	Advocating for social injustice, writing, and language learning
+* Advocating for social injustice, writing, and language learning
 
 [The University of Washington]: https://www.washington.edu/
 [def]: image.png
